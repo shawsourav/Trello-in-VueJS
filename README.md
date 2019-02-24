@@ -2,6 +2,11 @@
 
 > Trello Board
 
+Features available in this trello board
+1. Creation of lists and items inside the list
+2. Checklist in the items
+3. Drag and drop between lists
+
 ## Build Setup
 
 ``` bash
